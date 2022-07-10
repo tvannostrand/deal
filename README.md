@@ -7,6 +7,11 @@ Let's draw is a bash script to simulate shuffling and drawing a real deck of car
 
 This script has an interactive menu for ease of use.
 
+It creates a standard 52 playing card deck of: 
+
+- Four suits: hearts, spades, clubs and diamonds.
+- Face values of the cards: Ace, 2-10, Jack, Queen, and King.
+
 
 ## Prerequisites
 
