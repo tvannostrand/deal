@@ -2,9 +2,6 @@
 
 ##
 # "Let's draw" is a bash script to simulate shuffling and drawing a deck of cards.
-#
-# It requires CoreUtils, as it makes use of "shuf" as called with "gshuf" in the script.
-# This can be installed using brew if available, with: "brew install coreutils"
 # 
 ##
 
