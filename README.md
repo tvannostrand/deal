@@ -1,9 +1,9 @@
-# Let's draw
+# Let's Draw
 
 
 ## Description
 
-Let's draw is a bash script to simulate shuffling and drawing a real deck of cards.
+Let's Draw is a bash script to simulate shuffling and drawing a real deck of cards.
 
 This script has an interactive menu for ease of use.
 
